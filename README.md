@@ -1,4 +1,4 @@
-## Hi there 👋 my name is J
+## Hi there 👋 my name is Jay
 
 <!--
 **jl700/jl700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
